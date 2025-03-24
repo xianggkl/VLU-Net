@@ -11,6 +11,8 @@ Our work has been accepted by CVPR 2025, codes and results are coming soon!
 
 Update: We release the three-task, five-task and single restoration results.
 
+Update: We release the paper in Arxiv: https://arxiv.org/pdf/2503.16930.
+
 ### Results
 For one-by-one IR results
 
