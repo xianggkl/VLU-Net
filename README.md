@@ -2,6 +2,8 @@
 [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2503.16930)
 ![Language](https://img.shields.io/badge/language-python-red)
 
+Contact: xmwang28@gmail.com
+
 ---
 **Abstract:** Dynamic image degradations, including noise, blur and lighting inconsistencies, pose significant challenges in image restoration, often due to sensor limitations or adverse environmental conditions. 
 Existing Deep Unfolding Networks (DUNs) offer stable restoration performance but require manual selection of degradation matrices for each degradation type, limiting their adaptability across diverse scenarios.
