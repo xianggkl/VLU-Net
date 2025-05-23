@@ -1,5 +1,5 @@
-<div align="center">
-# Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks
+<div style="text-align: center;">
+<span style="font-size: 32px; font-weight: bold;">Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks</span><br>
 [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2503.16930)
 ![Language](https://img.shields.io/badge/language-python-red)
 
