@@ -1,11 +1,6 @@
-<div style="text-align: center;">
-<span style="font-size: 32px; font-weight: bold;">Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks</span><br>
+# Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks</span><br>
 [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2503.16930)
 ![Language](https://img.shields.io/badge/language-python-red)
-
-HaijinZeng,* XiangmingWang,* YongyongChen,† JingyongSu,† JieLiu
-Harvard University, Harbin Institute of Technology (Shenzhen)
-</div>
 
 ---
 **Abstract:** Dynamic image degradations, including noise, blur and lighting inconsistencies, pose significant challenges in image restoration, often due to sensor limitations or adverse environmental conditions. 
