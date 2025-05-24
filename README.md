@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 
 **2️⃣**
-Download the weights from , and put it as ./pretrained_skpt.
+Download the weights from link: https://drive.google.com/file/d/1214SfTO5LDMr3Ck_aVVUuZhuqhteMJ7P/view?usp=sharing, and put it as ./pretrained_ckpt.
 
 **3️⃣**
 Download the datasets from the websites, and put it as ./datasets to be processed by VLU-Net/utils/dataset_utils_clip.py.
