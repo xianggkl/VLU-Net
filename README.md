@@ -142,3 +142,7 @@ or
 <p align="center">
     <img width=90% src="figures/results_fig.png"/>
 </p>
+
+<h2 id="acknowledgement"> 🤗 Acknowledgement</h2>
+
+This work is based on [Restormer](https://github.com/swz30/Restormer), [DGUNet](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration), [open_clip](https://github.com/mlfoundations/open_clip). Thanks for their outstanding work.
